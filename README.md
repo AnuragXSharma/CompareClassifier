@@ -1,2 +1,2 @@
 # CompareClassifier
-Compare Classifier Models like KNN, SVM, Logistic Regression, Decision Trees and evaluate their performnace
+In this repossitory, we are going to analys the data from Portugese bank which they collected while marketing for fixed deposit. We will use full lifecycel of CRISP-DM to develop varius model and compare them.
