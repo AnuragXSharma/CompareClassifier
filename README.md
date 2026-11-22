@@ -48,7 +48,6 @@ Bar charts comparing model accuracy and training time
 ## Repository Structure
 CompareClassifier/
 ├── data/                  # Bank marketing dataset
-├── images/                # Saved charts and plots
 ├── CompareClassifier.ipynb  # Main Jupyter notebook
 └── README.md
 ## Getting Started
